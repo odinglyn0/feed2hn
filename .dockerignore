@@ -1,0 +1,10 @@
+.git
+.gitignore
+.kiro
+__pycache__
+*.pyc
+.env
+.env.*
+venv
+.venv
+*.md
